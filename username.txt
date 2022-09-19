@@ -1,0 +1,7 @@
+root
+page
+admin
+myadmin
+user1
+admin1
+adminadmin
