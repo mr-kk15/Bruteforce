@@ -1,0 +1,5 @@
+mailto:admin@mailinator.com
+mailto:test2@mailinator.com
+mailto:test1@mailinator.com
+mailto:test@mailinator.com
+test@gmail.com
