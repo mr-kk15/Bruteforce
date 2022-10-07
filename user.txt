@@ -1,0 +1,4 @@
+root
+os
+kali
+admin
